@@ -1,0 +1,6 @@
+---
+applications:
+- name: SpringBootCICD
+  memory: 512M
+  host: SpringCICD
+  path: target/SpringBootCICD.jenkins-0.0.1-SNAPSHOT.jar
